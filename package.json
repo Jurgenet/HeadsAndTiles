@@ -1,0 +1,13 @@
+{
+  "name": "HeadsAndTails",
+  "version": "1.0.0",
+  "description": "Simple Game",
+  "main": "app.js",
+  "author": "jurgenet@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.1.2",
+    "lodash": "^4.17.4",
+    "readline-sync": "^1.4.7"
+  }
+}
